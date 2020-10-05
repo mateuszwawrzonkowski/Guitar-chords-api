@@ -1,5 +1,5 @@
 
-# Zadanie rekrutacyjne - Chimera Prime
+# Guitar chords api app
 
 **Technologies**
 
